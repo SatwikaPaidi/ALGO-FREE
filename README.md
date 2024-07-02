@@ -7,8 +7,6 @@ AlgoFree is an app concept that empowers users to personalize and manage their i
 - User-Friendly Interface
 - Digital Empowerment
 
----
-
 ### Highlights
 - Developed after surveying 200 members.
 - Enhanced skills in user-centric app design.
